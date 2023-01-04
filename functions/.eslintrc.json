@@ -1,0 +1,20 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": ["airbnb", "plugin:prettier/recommended"],
+    "plugins": ["prettier"],
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+      "prettier/prettier": ["error"],
+      "require-jsdoc": "off",
+      "no-use-before-define": ["error", { "functions": false, "classes": true }],
+      "no-console": ["warn"]
+    }
+}

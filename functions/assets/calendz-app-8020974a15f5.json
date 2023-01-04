@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calendz-app",
+  "private_key_id": "8020974a15f5f0e3efd88d1366c3378d8ec91897",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv5EsL7IL90rVT\nVNtsEhJ9YSbTvahqDvY7Rx/opySX57sJbW9dJOt4IpfR1zhCeyqq75xBFcx2l1bY\nsKggLwjWO8uwF4RvkjXYUABJyNtSOMDHKkynxtL431cZ08eDPG+B11XTHD3l6m1N\n70OGwzCNMQ244P+LAIlBSKkxSZcdDVI4jvm3FywtAbzcoaJ8+87iU2gnGexdRocz\nkQJCtfmFcE8JHJelOcLPFmWIta8pXS4xVL2tPIkEhQH1oO5Elz7j8B+jsxU6SJac\noSMWlWqAp5hzRUCG6n0ayacDrnKqGOoTS679ccbOwX/irvWPyRgVIfTehutUrKp4\nH1nFBGnHAgMBAAECggEAAP0ICrUOXkZxyoTPf/U/Jsv+zCN5+mm0//ZjMJJVp87f\ngCPIrkF7W0K+8uHCHnQvu1yB5OODox+iCQZ4OLoT0z8I4tIoydxh+aInO5g+90Qm\nfS1cSQahnFCGUA4eqbq+C6uTRkeXoFeggw+owFEPevOiyGHnS/BkVQ+jvt6MKclX\n7rJFoV5PGZ9/Dkg+ULytRkXjY+zhtH1q7EfBaCfWpKZHjeBJCIWZLbHaaumq49iZ\nKTLa5BTT8VqFtQjvCKQd2D8NrlrLuz5fJGqX6mJLAqhMk2yKsTajLDx5XjJHntYS\nkHkgFTSXdyHTVgqmo3dnuskQbMc8+3C3zeD2iXmPPQKBgQDhUZ1SvMuSyKJUZR57\n0xlNZyvXa3/1imUHxHohpa2D09n8WeSDQIdSr/x3g5IQmq3SYpQivV8yw5KVZx3k\ncVh2e2HvzsG1z0jSLtjGV/IRvFJWNU2Vc78Pi78qpjMhQR4tGtpclCfONod996wM\nahR8HV1mJttHJ1nT1k26F+pjAwKBgQDH17PAe+bJ+37zYD/PcE96cuSajjqkHZlX\noqzRTh66U5sMGRsaDL/GxSMyf5OsBpBhx7Z2rhmkSm7FYJzdZp+lq40x05t28pfZ\nCzg9esufKepbHI7kv17oafFPwiwpg5uTJ2Lqwwg9cyTd5wEMNVDCwzKDAoPWhuT+\nJgQoAMJA7QKBgQDM3awxwj9Gou4V1is1YucqnZgbMj8SPldGDLsPRNjTeBhHfmRr\ngoyH/kOLVzHDryBEniUawRyBx5jMBwoC35wTfnO52z/90w7fLIElNml+/r/OaoC0\nVp1twR575Mmwfsi1MilA6+SVdrcTLdJdJ0ag4wI9Ey9lLr5aAgyCG6SdiQKBgAPW\nzfo1pyJcNX0hbThj9PLqQCAD+XZrpyV6140Rzh9QOdtKpC2k7w43fUycDM8yNRXb\ny1KOV6nDUEt0Zq8OKKT7HbRGV2c6k9Y0k/kCYeUF3h2v98LHNmCKoHsixMxrXdK+\n3/SYmJDtpFiq9mcwowOK0m6X3saBQubq/gtysEilAoGBAMW4RsLpefsijjP1a5Oo\nU3Hx27KBtFWsQzAlBTvOJNiXbB3EPY0HsAb+0N5awFhoggClAH1HgU0nJCks9FuX\nHuuvjClnQ0aQw/xH3zi1XB14DF3oOp/kgiLXRVSG5xnZVtYayo/LQNlMrkgmwf29\nIfWS1noTC/7WXCEajK8deuAl\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendz-cloudfunctions@calendz-app.iam.gserviceaccount.com",
+  "client_id": "116179896177621840946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendz-cloudfunctions%40calendz-app.iam.gserviceaccount.com"
+}
